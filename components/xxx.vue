@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>page目錄的預設元件(首頁)</h1>
+        <h1>我是省去匯入語法的全局元件xxx /components/xxx.vue</h1>
     </div>
 </template>
 

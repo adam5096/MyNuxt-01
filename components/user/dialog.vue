@@ -1,11 +1,10 @@
 <template>
     <div>
-        <h1>page目錄的預設元件(首頁)</h1>
+        <h1>我是互動視窗 全局元件 /components/user/diglog.vue</h1>
     </div>
 </template>
 
 <script lang="ts" setup>
-
 </script>
 
 <style></style>
