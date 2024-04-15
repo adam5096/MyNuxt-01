@@ -8,8 +8,8 @@
         <!-- <UserDialog></UserDialog> -->
         
         <!--  -->
-        <img src="/img/vue.png" alt="" width="200px">
-        <img src="~/assets/img/tailwindcss.png" alt="" width="200px">
+        <!-- <img src="/img/vue.png" alt="" width="200px"> -->
+        <!-- <img src="~/assets/img/tailwindcss.png" alt="" width="200px"> -->
     </div>
 </template>
 
@@ -18,6 +18,13 @@ import MyComponent from '~/pages/users/my-component.vue'
 useHead({
     title: '/pages/uers/index.vue',
 })
+const config = useRuntimeConfig()
+console.log(config.aaaa);
+// console.log(config.public.bbbb);
+console.log(config.public.apiBase);
+if (config.isServer) {
+    console.log('只在Server Side Render');
+}
 </script>
 
 <style>

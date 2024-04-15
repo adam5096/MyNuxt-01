@@ -11,13 +11,13 @@ useHead({
     // 沒有設置，則僅選用app.vue自訂字串
     return titleChunk ? `${titleChunk}-子件有設置自己的title ` : '無title';
   },
-  script: [
-    {
-      src: 'https://third-party-script.com',
-      // valid options are: 'head' | 'bodyClose' | 'bodyOpen'
-      tagPosition: 'bodyClose'
-    }
-  ]
+  // script: [
+  //   {
+  //     src: 'https://third-party-script.com',
+  //     // valid options are: 'head' | 'bodyClose' | 'bodyOpen'
+  //     tagPosition: 'bodyClose'
+  //   }
+  // ]
 })
 </script>
 
