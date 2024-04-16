@@ -30,12 +30,12 @@ useHead({
         直接使用a標籤，點擊後會發生頁面刷新，相當於一次全新向伺服器端發起請求
         使用nuxtlink屬於瀏覽器端本地導航切換頁面，即SPA
     -->
-    <h2>
+    <!-- <h2>
       <NuxtLink to="/">首頁 / NuxtLink</NuxtLink>
-    </h2>
-    <h2>
+    </h2> -->
+    <!-- <h2>
       <NuxtLink to="/users">用戶預設頁 /users/index NuxtLink</NuxtLink>
-    </h2>
+    </h2> -->
     <h2>
       <NuxtLink to="/users/list">用戶列表頁 /users/list.vue NuxtLink</NuxtLink>
     </h2>
