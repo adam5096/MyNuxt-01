@@ -37,6 +37,9 @@ useHead({
       <NuxtLink to="/users">用戶預設頁 /users/index NuxtLink</NuxtLink>
     </h2>
     <h2>
+      <NuxtLink to="/users/list">用戶列表頁 /users/list.vue NuxtLink</NuxtLink>
+    </h2>
+    <h2>
       <NuxtLink to="/users/create-or-edit">用戶新增或修改 /users/create-or-edit NuxtLink</NuxtLink>
     </h2>
     <!-- <h2><NuxtLink to="/roles/admin">角色-管理員 /roles/admin NuxtLink</NuxtLink></h2> -->
