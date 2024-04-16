@@ -2,8 +2,9 @@
     <div>
         <h1>用戶列表</h1>
         <h2>{{ counter }}</h2>
-        <button @click="counter++">加1</button>
-        <button @click="addCounter">加2</button>
+        <!-- <button @click="counter++">加1</button> -->
+        <!-- <button @click="addCounter">加2</button> -->
+        <el-button type="primary" @click="handleClick">ha ha</el-button>
     </div>
 </template>
 
@@ -22,6 +23,9 @@
 const counter = useCounter()
 const addCounter = () => {
     counter.value = counter.value+2
+}
+const handleClick = () => {
+    ElMessage.success('ElMessage成功啦')
 }
 </script>
 

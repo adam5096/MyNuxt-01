@@ -25,9 +25,13 @@ export default defineNuxtConfig({
     //開啟同源政策
     '/api/aaaa': { cors: true }
   },
+  // ???
   nitro: {
     prerender: {
       routes: routesArr
     }
-  }
+  },
+  modules: [
+    '@element-plus/nuxt'
+  ],
 })
