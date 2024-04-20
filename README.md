@@ -1,5 +1,5 @@
 # 🚀NUXT 3 實作官方文件案例
-# 🚀[教材來源網址](https://www.youtube.com/playlist?list=PL_vrngOaamYu_GHdV0WQkeFGOB7vhC_OU)
+# 🚀[原作者+參考資料來源](https://www.youtube.com/playlist?list=PL_vrngOaamYu_GHdV0WQkeFGOB7vhC_OU)
 **🚫本專案為自主練習使用，請勿挪為商業用途🚫**
 
 # 🔧使用編輯器/語言/套件?/框架?
