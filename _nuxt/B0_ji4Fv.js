@@ -1,0 +1,1 @@
+import{_ as o,c as t,b as c,a as n,o as s,k as _}from"./HsBT1UkB.js";const a={},r=n("h1",null,"父元件roles",-1);function l(d,u){const e=_;return s(),t("div",null,[r,c(e)])}const m=o(a,[["render",l]]);export{m as default};

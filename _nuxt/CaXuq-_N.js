@@ -1,0 +1,1 @@
+import{g as e,u as a,o as t,c as n,a as s}from"./HsBT1UkB.js";const o=s("h1",null,"page目錄的預設元件(首頁)/page/index.vue",-1),c=[o],r=e({__name:"index",setup(_){return a({title:"/pages/index.vue"}),(d,i)=>(t(),n("div",null,c))}});export{r as default};

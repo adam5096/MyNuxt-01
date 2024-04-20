@@ -1,0 +1,1 @@
+{"id":"c09deba9-397b-4efd-840f-7c5a3d4e402f","timestamp":1713253678367,"matcher":{"static":{"/xxx/yyy/zzz":{"prerender":true},"/old-page":{"redirect":"/users/create-or-edit"}},"wildcard":{},"dynamic":{}},"prerendered":["/roles","/about","/roles/admin","/roles/normal","/","/users/list","/users/my-component","/users/create-or-edit","/users"]}

@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as n,a as s}from"./HsBT1UkB.js";const t={},c=s("h1",null,"我是子元件 /pages/users/my-component.vue",-1),a=[c];function r(_,l){return n(),o("div",null,a)}const d=e(t,[["render",r]]);export{d as default};

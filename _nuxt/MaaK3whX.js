@@ -1,0 +1,1 @@
+import{_ as o,c as t,o as c,a as e}from"./HsBT1UkB.js";const s={},n=e("h1",null,"I am About",-1),_=e("h2",null,"2024前端發展",-1),a=[n,_];function r(l,d){return c(),t("div",null,a)}const i=o(s,[["render",r]]);export{i as default};

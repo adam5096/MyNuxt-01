@@ -1,0 +1,1 @@
+import{g as a,h as s,o as t,c as n,a as o,t as r,j as c}from"./HsBT1UkB.js";const _=a({__name:"[id]",setup(i){const e=s().params.id;return(l,p)=>(t(),n("div",null,[o("h1",null,"課程ID為 : "+r(c(e)),1)]))}});export{_ as default};

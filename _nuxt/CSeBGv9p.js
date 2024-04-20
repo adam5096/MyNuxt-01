@@ -1,0 +1,1 @@
+import{_ as o,c as s,o as n,a as e}from"./HsBT1UkB.js";const t={},c=e("h1",null,"pages/roles/normal",-1),a=e("h2",null,"一般用戶",-1),r=[c,a];function _(l,d){return n(),s("div",null,r)}const f=o(t,[["render",_]]);export{f as default};

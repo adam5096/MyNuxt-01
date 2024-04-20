@@ -1,0 +1,1 @@
+import{u as s}from"./Dq5zkm-U.js";import{g as a,o as u,c as l,a as e,t as r,j as c}from"./HsBT1UkB.js";const i=e("h1",null,"用戶列表",-1),v=a({__name:"list",setup(p){const t=s(),o=()=>{t.value=t.value+2};return(m,n)=>(u(),l("div",null,[i,e("h2",null,r(c(t)),1),e("button",{onClick:n[0]||(n[0]=_=>t.value++)},"加1"),e("button",{onClick:o},"加2")]))}});export{v as default};

@@ -1,0 +1,1 @@
+import{u as o}from"./Dq5zkm-U.js";import{g as r,o as a,c as n,a as e,t as s,j as c}from"./HsBT1UkB.js";const u=e("h1",null,"create-or-edit",-1),d=r({__name:"create-or-edit",setup(l){const t=o();return(i,_)=>(a(),n("div",null,[u,e("h2",null,s(c(t)),1)]))}});export{d as default};

@@ -1,0 +1,1 @@
+import{_ as o,c as s,o as n,a as e}from"./HsBT1UkB.js";const t={},c=e("h1",null,"pages/roles/admin",-1),a=e("h2",null,"管理員",-1),_=[c,a];function r(l,d){return n(),s("div",null,_)}const f=o(t,[["render",r]]);export{f as default};
