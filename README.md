@@ -1,75 +1,10 @@
-# Nuxt 3 Minimal Starter
+# 🚀NUXT 3 實作官方文件案例
+# 🚀[教材來源網址](https://www.youtube.com/playlist?list=PL_vrngOaamYu_GHdV0WQkeFGOB7vhC_OU)
+**🚫本專案為自主練習使用，請勿挪為商業用途🚫**
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
-
-## Setup
-
-Make sure to install the dependencies:
-
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+# 🔧使用語言/套件?/框架?
+- nuxt: ^3.11.2
+- vue: ^3.4.21
+- vue-router: ^4.3.0
+- @element-plus/nuxt: ^1.0.8
+- element-plus: ^2.7.0
